@@ -1,1 +1,1 @@
-This Repository is for self noting intresting here .
+Collection of PyGame
